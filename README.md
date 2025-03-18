@@ -9,8 +9,8 @@ Programul a fost realizat in c++ pentru a reprezenta grafic undele de sunet gene
 Scopul acestui program este de preluare a unor date de intrare și reprezentarea acestora folosind ecuația undei.
 
 ### Bibliografie
-https://ro.wikipedia.org/wiki/Jean_le_Rond_D%27Alembert
-https://ro.wikipedia.org/wiki/Daniel_Bernoulli#Contribu%C8%9Bii
-https://ro.wikipedia.org/wiki/Ecua%C8%9Bie_de_und%C4%83
-https://ro.wikipedia.org/wiki/Serie_Fourier
-https://chatgpt.com/
+- https://ro.wikipedia.org/wiki/Jean_le_Rond_D%27Alembert
+- https://ro.wikipedia.org/wiki/Daniel_Bernoulli#Contribu%C8%9Bii
+- https://ro.wikipedia.org/wiki/Ecua%C8%9Bie_de_und%C4%83
+- https://ro.wikipedia.org/wiki/Serie_Fourier
+- https://chatgpt.com/
